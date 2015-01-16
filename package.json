@@ -1,0 +1,21 @@
+{
+  "name": "grunt-jade-sass-js",
+  "version": "0.0.0",
+  "description": "Sass, Js and Grunt Boilerplate",
+  "main": "y",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-autoprefixer": "latest",
+    "grunt-browser-sync": "1.3.6",
+    "grunt-contrib-compass": "0.9.1",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest"
+  },
+  "scripts": {
+    "postinstall": "grunt"
+  },
+  "author": "B Conradie",
+  "license": "ISC"
+}
